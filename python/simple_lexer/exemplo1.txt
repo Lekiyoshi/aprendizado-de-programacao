@@ -1,0 +1,2 @@
+while indice < 10 do
+	indice = total + indice;

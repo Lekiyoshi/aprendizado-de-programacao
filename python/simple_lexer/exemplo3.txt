@@ -1,0 +1,2 @@
+a[index]=4+2;  # This is a comment
+b[0]+=-7;
